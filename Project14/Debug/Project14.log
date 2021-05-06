@@ -1,0 +1,7 @@
+﻿  LinkedList.cpp
+  main.cpp
+C:\Users\Bilal khan\source\repos\Project14\Project14\main.cpp(51,10): warning C4552: '+': result of expression not used
+C:\Users\Bilal khan\source\repos\Project14\Project14\main.cpp(81,10): warning C4552: '+': result of expression not used
+C:\Users\Bilal khan\source\repos\Project14\Project14\main.cpp(61,27): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+  Project14.vcxproj -> C:\Users\Bilal khan\source\repos\Project14\Debug\Project14.exe
